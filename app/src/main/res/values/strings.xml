@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework21</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textViewContactName">Name of contact</string>
+    <string name="textViewContactPhoneNumber">Phone number</string>
+    <string name="floatingActionButtonAddContact">Add contact</string>
+    <string name="textViewInscriptionAddContact">ADD CONTACT</string>
+</resources>
